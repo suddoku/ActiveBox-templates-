@@ -192,6 +192,38 @@ p{
     font-size: 14px;
 }
 
+/* team */
+.team{
+    margin: 100px 0;
+    display: flex;
+    flex-wrap: wrap;
+}
 
+.team__item{
+    width: 25%;
+    padding: 0 25px;
+    margin: 35px 0;
+}
+
+.team__title{
+    font-size: 22px;
+    padding-top: 30px;
+    padding-bottom: 15px;
+}
+
+.team__subtitle{
+    text-transform: uppercase;
+    color: #e84545;
+    padding-bottom: 30px;
+}
+
+.team__text{
+    padding-bottom: 30px;
+}
+
+.team__icon{
+    margin-right: 5px;
+}
+/*============*/
 
 
